@@ -1,4 +1,4 @@
-package cn.jk.boot;
+package cn.jk.boot.test;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
